@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/c8nK7l5tMaofAWcfvs/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/brandon-b-jones">
+  <a href="https://www.linkedin.com/in/brandon-b-jones">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=appveyor=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/captain.spicy/">
@@ -24,7 +24,7 @@
 - 👀 I’m interested in a career in Data science and analytics
 - 🌱 I’m currently learning intermediate python
 - 💞️ I’m looking to collaborate on beginner/intermediate projects
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bishop-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/brandon-b-jones)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bishop-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-b-jones)
 
 ---
 
