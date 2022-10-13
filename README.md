@@ -22,8 +22,8 @@
 
 - 👋 Hi, I’m Bishop
 - 👀 I’m interested in a career in Data science and analytics
-- 🌱 I’m currently learning intermediate python
-- 💞️ I’m looking to collaborate on beginner/intermediate projects
+- 🌱 I’m currently learning intermediate python and Java
+- 💞️ I’m looking to collaborate on beginner/intermediate projects or Java study groups
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bishop-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-b-jones)
 
 ---
